@@ -1,3 +1,2 @@
-# MUX Angular
-
+# MUX Bootstrap
 
